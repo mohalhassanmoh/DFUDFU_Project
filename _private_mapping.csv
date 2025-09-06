@@ -1,0 +1,164 @@
+old_path,new_path,old_filename,new_filename,sha256_raw
+/content/DFU/DFU/TestSet/1167 (1).jpg,/content/DFU/DFU/TestSet111/DFU_00001.jpg,1167 (1).jpg,DFU_00001.jpg,2a1251884e6f8495772a0b6b9998d3646925fd55e108637c7bfe865831a5cb03
+/content/DFU/DFU/TestSet/complex_wound_management.jpg,/content/DFU/DFU/TestSet111/DFU_00002.jpg,complex_wound_management.jpg,DFU_00002.jpg,7d96a3ab3551940c1334ba8111e1f675cfbe0cf7c005d3aaa7fb2ac2ae67f241
+/content/DFU/DFU/TestSet/images (3).jpg,/content/DFU/DFU/TestSet111/DFU_00003.jpg,images (3).jpg,DFU_00003.jpg,87ad0e05a2c72d507e3331c5a465a91a2969f8124535dcac916827232f27f8d1
+/content/DFU/DFU/TestSet/ulcers (1).jpg,/content/DFU/DFU/TestSet111/DFU_00004.jpg,ulcers (1).jpg,DFU_00004.jpg,69ea0e54df96f56c91971607644de24e1cc0a32e9a86ed84109c92bbfab93b3a
+/content/DFU/DFU/TestSet/4 (2).jpg,/content/DFU/DFU/TestSet111/DFU_00005.jpg,4 (2).jpg,DFU_00005.jpg,a1f2616f4388f5c6111be4b49af527a633998dbab249dcb607589e7f0665842d
+/content/DFU/DFU/TestSet/DSC00319.jpeg,/content/DFU/DFU/TestSet111/DFU_00006.jpeg,DSC00319.jpeg,DFU_00006.jpeg,9c9a37372608e58c9686a11b8ea2786a403d8f49ec585993cde469a4388dda4d
+/content/DFU/DFU/TestSet/images (9).jpg,/content/DFU/DFU/TestSet111/DFU_00007.jpg,images (9).jpg,DFU_00007.jpg,ea6b43f50dbc7d1d14b62f46bc37bf963fe857972c1ac33fac526415a1e21233
+/content/DFU/DFU/TestSet/images (21).jpg,/content/DFU/DFU/TestSet111/DFU_00008.jpg,images (21).jpg,DFU_00008.jpg,00bb36f5da1ed3eb72578dc99171854aee069e2a1aee41f21d5f7a4151d86d09
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer_opt.jpg,/content/DFU/DFU/TestSet111/DFU_00009.jpg,diabetic-foot-ulcer_opt.jpg,DFU_00009.jpg,fc626535ffb299febe4d221069433a4f669edec5825fe59d518fdfd0ab8a9a6c
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer-pictures-5 (1).jpg,/content/DFU/DFU/TestSet111/DFU_00010.jpg,diabetic-foot-ulcer-pictures-5 (1).jpg,DFU_00010.jpg,8cb50a82deacd16f2722ea7eb1f1f1abbde415b50f4bead22f47080e7ec36bf0
+/content/DFU/DFU/TestSet/how-to-heal-a-diabetic-foot-ulcer-700393-2.jpg,/content/DFU/DFU/TestSet111/DFU_00011.jpg,how-to-heal-a-diabetic-foot-ulcer-700393-2.jpg,DFU_00011.jpg,85cb933e675feed5b9480e3c4f688e32c3a3b826a07156a637081bb26bdc4e10
+/content/DFU/DFU/TestSet/Diabetic-amputation-rates-continue-to-be-a-problem.jpg,/content/DFU/DFU/TestSet111/DFU_00012.jpg,Diabetic-amputation-rates-continue-to-be-a-problem.jpg,DFU_00012.jpg,2c1dd0c76a8264c30a91b5542ac9260f61b242f0e024b92ae0ec3667e2b666b3
+/content/DFU/DFU/TestSet/4-Figure3-used.png,/content/DFU/DFU/TestSet111/DFU_00013.png,4-Figure3-used.png,DFU_00013.png,af1c9e3f07a3b93c00875b024a76f7f0deceed510cc4eb9979ea74cdfcd7a5dc
+/content/DFU/DFU/TestSet/fig1.jpg,/content/DFU/DFU/TestSet111/DFU_00014.jpg,fig1.jpg,DFU_00014.jpg,e24ea7c6af4e58d7618b1aa3ed661adfd97776664a21324b97c8eff27aeed2eb
+/content/DFU/DFU/TestSet/download.jpg,/content/DFU/DFU/TestSet111/DFU_00015.jpg,download.jpg,DFU_00015.jpg,05ba4963dae6e48ed8189342b2fc09a0bbedfec8107a84bfce769838981b8692
+/content/DFU/DFU/TestSet/1882_19-Effective-Home-Remedies-For-Corns-And-Calluses (1).jpg,/content/DFU/DFU/TestSet111/DFU_00016.jpg,1882_19-Effective-Home-Remedies-For-Corns-And-Calluses (1).jpg,DFU_00016.jpg,566890c638040bf7048765b1eb6c749d501463d1b3de2d4d913d8967374ada1e
+/content/DFU/DFU/TestSet/1167.jpg,/content/DFU/DFU/TestSet111/DFU_00017.jpg,1167.jpg,DFU_00017.jpg,b626b1eac48d8e061eeab017737c8860b7212dd6cdf7a4a5e261c501f718d337
+/content/DFU/DFU/TestSet/a39266877b6897fad51e9383d93daa05--diabetes-weird.jpg,/content/DFU/DFU/TestSet111/DFU_00018.jpg,a39266877b6897fad51e9383d93daa05--diabetes-weird.jpg,DFU_00018.jpg,f00e626a2191c66e5b4cb3c490e732288a68fd02bad8c23211c09c805bf21a03
+/content/DFU/DFU/TestSet/images (12).jpg,/content/DFU/DFU/TestSet111/DFU_00019.jpg,images (12).jpg,DFU_00019.jpg,6dd35d2b39d1eb2c700e456e9b2e18fe1c960f391abb4b6f6d4bff7d913abfed
+/content/DFU/DFU/TestSet/images (24).jpg,/content/DFU/DFU/TestSet111/DFU_00020.jpg,images (24).jpg,DFU_00020.jpg,3f2ae4e5c7b6da263d435a83e9d579b8d9704dc3a253e77b6c2a60b1455650e6
+/content/DFU/DFU/TestSet/23.jpg,/content/DFU/DFU/TestSet111/DFU_00021.jpg,23.jpg,DFU_00021.jpg,269a1af32a1e06ce34432206d57fc02c477987088de2180f3aa7b6d96ae0a843
+/content/DFU/DFU/TestSet/images (29).jpg,/content/DFU/DFU/TestSet111/DFU_00022.jpg,images (29).jpg,DFU_00022.jpg,b110c663322ef5830fdfb57787aab6680bb16cff9395a6d15da7501c8c791717
+/content/DFU/DFU/TestSet/m5_05.jpg,/content/DFU/DFU/TestSet111/DFU_00023.jpg,m5_05.jpg,DFU_00023.jpg,eaec9e7890bd9527c7b3902980ea46603d8aa090c2acc99dfe671c89afb88907
+/content/DFU/DFU/TestSet/13.jpg,/content/DFU/DFU/TestSet111/DFU_00024.jpg,13.jpg,DFU_00024.jpg,291c044516c71cce76a5aaf2eeb7994d361500926fb8b7f2c987d5ae4966cd73
+/content/DFU/DFU/TestSet/M2800025-Diabetic_neuropathy_ulceration_of_sole_of_foot-SPL_popup.jpg,/content/DFU/DFU/TestSet111/DFU_00025.jpg,M2800025-Diabetic_neuropathy_ulceration_of_sole_of_foot-SPL_popup.jpg,DFU_00025.jpg,58b776eaf9633318c9f7da53fcdf7106ab5b81d7260a9f67cb2ddab784e64c18
+/content/DFU/DFU/TestSet/Diabetic-neuropathic-feet-Callus-formation-as-a-presentation-of-neuropathy.png,/content/DFU/DFU/TestSet111/DFU_00026.png,Diabetic-neuropathic-feet-Callus-formation-as-a-presentation-of-neuropathy.png,DFU_00026.png,e4727abc5e10252192420252faf0a7dac1a4d570815dfaa64815e1098d97382e
+/content/DFU/DFU/TestSet/9.jpg,/content/DFU/DFU/TestSet111/DFU_00027.jpg,9.jpg,DFU_00027.jpg,790ad115d0dbe96ee6ee84fcc92a8a1630e2d231a3fcc6e262ac01efa2f54146
+/content/DFU/DFU/TestSet/3.jpg,/content/DFU/DFU/TestSet111/DFU_00028.jpg,3.jpg,DFU_00028.jpg,1a318723f84d95630e9b2e7e406a3b594396b4d79f03c637f4d36584fd020cb7
+/content/DFU/DFU/TestSet/pre-ulceration (1).jpg,/content/DFU/DFU/TestSet111/DFU_00029.jpg,pre-ulceration (1).jpg,DFU_00029.jpg,20f7a3bd33cdb0bc6e1beb3b5253a69eece74560e14ed3a32f9cffaba64a82d0
+/content/DFU/DFU/TestSet/images (19).jpg,/content/DFU/DFU/TestSet111/DFU_00030.jpg,images (19).jpg,DFU_00030.jpg,106599ca9aea571733f4980d3d4c98d193c33dde6a1c3ddbd0c0669362030741
+/content/DFU/DFU/TestSet/images (5).jpg,/content/DFU/DFU/TestSet111/DFU_00031.jpg,images (5).jpg,DFU_00031.jpg,ba42a030bef4b7d1b08b81ccd3491c2c5950c8a3766980aaa675d2a77d35050f
+/content/DFU/DFU/TestSet/Callus-Formation1.jpg,/content/DFU/DFU/TestSet111/DFU_00032.jpg,Callus-Formation1.jpg,DFU_00032.jpg,70c8f1c38b060e46cc2f2cbd20eacb27bf8c2003877857a148f84c8e19abcfa2
+/content/DFU/DFU/TestSet/images (11).jpg,/content/DFU/DFU/TestSet111/DFU_00033.jpg,images (11).jpg,DFU_00033.jpg,96585c1f4c0e1478e48328bcf5742dc0f3e202c664f3e6b961b4b8084892ba74
+/content/DFU/DFU/TestSet/images (34).jpg,/content/DFU/DFU/TestSet111/DFU_00034.jpg,images (34).jpg,DFU_00034.jpg,07e795a4b217e5aae46bfed7d59c336b2c2b5d9df7c01fbc468f388554ad53ba
+/content/DFU/DFU/TestSet/Seed-Corn-under-Ball-of-Foot.jpg,/content/DFU/DFU/TestSet111/DFU_00035.jpg,Seed-Corn-under-Ball-of-Foot.jpg,DFU_00035.jpg,a3e3c4f6f564b46742a704649bbec241d7a015a9c8a60121e0e292c228a294a5
+/content/DFU/DFU/TestSet/48.jpg,/content/DFU/DFU/TestSet111/DFU_00036.jpg,48.jpg,DFU_00036.jpg,19802953bb7749065aefde49ca1858f81333cca2257b69f790d52210a090c215
+/content/DFU/DFU/TestSet/images (16).jpg,/content/DFU/DFU/TestSet111/DFU_00037.jpg,images (16).jpg,DFU_00037.jpg,68e99564b680bba6bdd73f34adbf478752c6f49b225b1c2790153adb8955e80f
+/content/DFU/DFU/TestSet/diabetoc-foot-ulcer.jpg,/content/DFU/DFU/TestSet111/DFU_00038.jpg,diabetoc-foot-ulcer.jpg,DFU_00038.jpg,258dd860255c33c8be4aba4f8f26f6cfe70a4b7a125c63e7a5827adf84bbc327
+/content/DFU/DFU/TestSet/36.jpg,/content/DFU/DFU/TestSet111/DFU_00039.jpg,36.jpg,DFU_00039.jpg,b59f094ef85b2184dfcc5734afcf5400825b1eb93121ec2f71a3066c707ef8f9
+/content/DFU/DFU/TestSet/37.jpg,/content/DFU/DFU/TestSet111/DFU_00040.jpg,37.jpg,DFU_00040.jpg,41906546724506cd82b02fdba961ff806eee66cdac70e783d0b5bbbcde27f4e9
+/content/DFU/DFU/TestSet/5.jpg,/content/DFU/DFU/TestSet111/DFU_00041.jpg,5.jpg,DFU_00041.jpg,de82ec5eab3ec23d6f6aad9912a6e24c7f4c0bdef130cbe3c07157c6789097da
+/content/DFU/DFU/TestSet/1.jpg,/content/DFU/DFU/TestSet111/DFU_00042.jpg,1.jpg,DFU_00042.jpg,9706adb14ca03ef671014638e90d95ad2e55d9026a7a89d85283f749e1004262
+/content/DFU/DFU/TestSet/38.jpg,/content/DFU/DFU/TestSet111/DFU_00043.jpg,38.jpg,DFU_00043.jpg,47aa126e427540e4a86e04901c0925dd4cf9f455e6b5deb4cfda3286ea012d25
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer-pictures-5.jpg,/content/DFU/DFU/TestSet111/DFU_00044.jpg,diabetic-foot-ulcer-pictures-5.jpg,DFU_00044.jpg,19ebd49b1fbd18ede0bb1f0ae8a5763e462974dc6fef1b14299fd5c283f494c6
+/content/DFU/DFU/TestSet/4.jpg,/content/DFU/DFU/TestSet111/DFU_00045.jpg,4.jpg,DFU_00045.jpg,69918f6dcf98e99c259ad2de938d4c52902802c8e249a2b11fd0be3ba1da503d
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer.jpg,/content/DFU/DFU/TestSet111/DFU_00046.jpg,diabetic-foot-ulcer.jpg,DFU_00046.jpg,0af4732d5bb7f3693f9a2cd12afb38e2a93b3a4971dce161ab1cd4c35c892cca
+/content/DFU/DFU/TestSet/30.jpg,/content/DFU/DFU/TestSet111/DFU_00047.jpg,30.jpg,DFU_00047.jpg,e409dc92f5d053788ff3611f2387df1ef2ad400c2104dd3341a3c2ca69d896f2
+/content/DFU/DFU/TestSet/images (6).jpg,/content/DFU/DFU/TestSet111/DFU_00048.jpg,images (6).jpg,DFU_00048.jpg,d72758db2b74745bb77a21d754ec2099aeccec2664192017adac45ad70c9e4cf
+/content/DFU/DFU/TestSet/18.jpg,/content/DFU/DFU/TestSet111/DFU_00049.jpg,18.jpg,DFU_00049.jpg,e56c6ba30837c371f23b11fa3fb465d7e617e998de7d1a38aca1b1dd2dfd9de7
+/content/DFU/DFU/TestSet/images (20).jpg,/content/DFU/DFU/TestSet111/DFU_00050.jpg,images (20).jpg,DFU_00050.jpg,f1366cd91bfdf4e9ed86396e26be5a706ec9d44873a4396c048f16f3e23b41ee
+/content/DFU/DFU/TestSet/GettyImages-840167308-1-650x450.jpg,/content/DFU/DFU/TestSet111/DFU_00051.jpg,GettyImages-840167308-1-650x450.jpg,DFU_00051.jpg,9559e6ac5b187617b7c0a3c8d8bc105adf6664678df5d936a0b4ccf71400212f
+/content/DFU/DFU/TestSet/image3.jpeg,/content/DFU/DFU/TestSet111/DFU_00052.jpeg,image3.jpeg,DFU_00052.jpeg,1b6e8c883537ef9235ee9850d8fe9465e4ad337b36fe407310c9ff07525a8904
+/content/DFU/DFU/TestSet/images (2).jpg,/content/DFU/DFU/TestSet111/DFU_00053.jpg,images (2).jpg,DFU_00053.jpg,c4acd4302ec04fa3b9ab0a145b757f969b48ed0982e4b9a0fe1952c9bcea6bb4
+/content/DFU/DFU/TestSet/images (13).jpg,/content/DFU/DFU/TestSet111/DFU_00054.jpg,images (13).jpg,DFU_00054.jpg,096c0aa33484ca36e275843e99fc8f3ec8478b4afc56dbe684044f2a1259cb67
+/content/DFU/DFU/TestSet/1 .jpg,/content/DFU/DFU/TestSet111/DFU_00055.jpg,1 .jpg,DFU_00055.jpg,6f627c07e23bcd7431d7f8d355c894e3c3d8e1d780150fa4b268691654d0cd21
+/content/DFU/DFU/TestSet/a-Plantar-hallux-subungual-ulcer-b-ulcer-healing-after-tenotomy-of-the-flexor.png,/content/DFU/DFU/TestSet111/DFU_00056.png,a-Plantar-hallux-subungual-ulcer-b-ulcer-healing-after-tenotomy-of-the-flexor.png,DFU_00056.png,fa9b8a6d4d1503741247433b7cf6caa0cc35ca8e335abee5ab7ae72fd49cb1bf
+/content/DFU/DFU/TestSet/foot-ulcer-217x300.jpg,/content/DFU/DFU/TestSet111/DFU_00057.jpg,foot-ulcer-217x300.jpg,DFU_00057.jpg,1d74cbe1549265f6cd8e7931b2ea478e5d2fc3797f31e1b93b9372d2cc3b7d13
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer (1).jpg,/content/DFU/DFU/TestSet111/DFU_00058.jpg,diabetic-foot-ulcer (1).jpg,DFU_00058.jpg,2c1b176107209df0db7bf0d1b0428a8602d2128a06159336082bafee2e18c44d
+/content/DFU/DFU/TestSet/ulcers_before.jpg,/content/DFU/DFU/TestSet111/DFU_00059.jpg,ulcers_before.jpg,DFU_00059.jpg,ad20ab9379e207ab1938609aa00b944ddea0213b732540364e228b3387e42822
+/content/DFU/DFU/TestSet/honey1.jpg,/content/DFU/DFU/TestSet111/DFU_00060.jpg,honey1.jpg,DFU_00060.jpg,f7f9e7b8bc92329ed1e7afec09b96c463f6a3eb27a10fc5eb51d0c3aadb305cf
+/content/DFU/DFU/TestSet/7527tn.jpg,/content/DFU/DFU/TestSet111/DFU_00061.jpg,7527tn.jpg,DFU_00061.jpg,2320ec70042cb81a41b85e8ffcb9c652cdeedcf21817135ffc2f6e0d85568005
+/content/DFU/DFU/TestSet/soft-corn-between-toes.jpg,/content/DFU/DFU/TestSet111/DFU_00062.jpg,soft-corn-between-toes.jpg,DFU_00062.jpg,e340b11f84e900092079f73390caffd0c9e690c6a6d151a13bc5a73ac19cb696
+/content/DFU/DFU/TestSet/22.jpg,/content/DFU/DFU/TestSet111/DFU_00063.jpg,22.jpg,DFU_00063.jpg,81b9ace7eb56dc07f3149903f5cb5b5feb59a7b6bd0291715b967f1558dcbd28
+/content/DFU/DFU/TestSet/2cyruuzga5e01.jpg,/content/DFU/DFU/TestSet111/DFU_00064.jpg,2cyruuzga5e01.jpg,DFU_00064.jpg,fdc182aa192d680af7a7967fdcf21f874fe2462565bf63ec08fe77fe410eda60
+/content/DFU/DFU/TestSet/e8511b3d622ba7d21d0b7749ff2111b9.jpg,/content/DFU/DFU/TestSet111/DFU_00065.jpg,e8511b3d622ba7d21d0b7749ff2111b9.jpg,DFU_00065.jpg,6c49738b16f78604cbabdab7a20aca4dc2f1e418134171f0813c3abfbab4014b
+/content/DFU/DFU/TestSet/15.jpg,/content/DFU/DFU/TestSet111/DFU_00066.jpg,15.jpg,DFU_00066.jpg,1bc008857bd04d1d306591c83e0be9bb3d26dab51e50ac352892e01691248d37
+/content/DFU/DFU/TestSet/image4.jpeg,/content/DFU/DFU/TestSet111/DFU_00067.jpeg,image4.jpeg,DFU_00067.jpeg,995f11fecbb23708fdda1faa1b6f23196c5d56878658db8279e022753a7e21b2
+/content/DFU/DFU/TestSet/images (33).jpg,/content/DFU/DFU/TestSet111/DFU_00068.jpg,images (33).jpg,DFU_00068.jpg,2ecacf671635065add4bc6d124aafb8c609bd4682fb82509776656306b4b24fe
+/content/DFU/DFU/TestSet/Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (1).png,/content/DFU/DFU/TestSet111/DFU_00069.png,Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (1).png,DFU_00069.png,d9f8c54817037ba915ab8a260b0a2b07b741a99a447ae886b8ef5516ac9c0eb7
+/content/DFU/DFU/TestSet/images (18).jpg,/content/DFU/DFU/TestSet111/DFU_00070.jpg,images (18).jpg,DFU_00070.jpg,68bde03e4aee13153e2387a54c06d65014c0a3cb6ec2a8c860ea95866037a5b7
+/content/DFU/DFU/TestSet/images (32).jpg,/content/DFU/DFU/TestSet111/DFU_00071.jpg,images (32).jpg,DFU_00071.jpg,d99534db815a376b461402c81fdf5868c7776c013597bc2828ddee0a458e7acf
+/content/DFU/DFU/TestSet/62e0142009a44d1a98f41d8d8874cced.png,/content/DFU/DFU/TestSet111/DFU_00072.png,62e0142009a44d1a98f41d8d8874cced.png,DFU_00072.png,77febb6ae8201a4a0a7aeaf3c605414ae2efc8074b1af2cf8c28b9712e9d8ac2
+/content/DFU/DFU/TestSet/fca6301733db7bae3970f6a2db215b30.jpg,/content/DFU/DFU/TestSet111/DFU_00073.jpg,fca6301733db7bae3970f6a2db215b30.jpg,DFU_00073.jpg,8b267360eff7cdd0063529856b85a8c25bb91fe6ed853e141e70229497663df0
+/content/DFU/DFU/TestSet/diabetic foot ulcer..jpg,/content/DFU/DFU/TestSet111/DFU_00074.jpg,diabetic foot ulcer..jpg,DFU_00074.jpg,a8368c02406aec278ec1648865bd1b32049e89e03dc5bd701e74ea704c28e0b9
+/content/DFU/DFU/TestSet/25.jpg,/content/DFU/DFU/TestSet111/DFU_00075.jpg,25.jpg,DFU_00075.jpg,78a911e5b3e0eaec3e00e709c8a90893268ac01ccde511a45ea889fff74ff913
+/content/DFU/DFU/TestSet/images (35).jpg,/content/DFU/DFU/TestSet111/DFU_00076.jpg,images (35).jpg,DFU_00076.jpg,faac30ed2748f5a7562a2b77b09b1d2414e32988aaf1e6fe71b92661a217480a
+/content/DFU/DFU/TestSet/corns.jpg,/content/DFU/DFU/TestSet111/DFU_00077.jpg,corns.jpg,DFU_00077.jpg,8165f5f568d107edd72982030f1cfc8f138afb61f9784c8fb27819b48232461c
+/content/DFU/DFU/TestSet/wc_121102_diabetic_foot_ulcer_wound_200x151.jpg,/content/DFU/DFU/TestSet111/DFU_00078.jpg,wc_121102_diabetic_foot_ulcer_wound_200x151.jpg,DFU_00078.jpg,4358ffe5d9f7d0da50f54c0a20674ee0e43f19caaea6230e7fc40210d9a8c561
+/content/DFU/DFU/TestSet/0.jpg,/content/DFU/DFU/TestSet111/DFU_00079.jpg,0.jpg,DFU_00079.jpg,aaac83a1deae5832d1fd83de9c87d9142c6b5a493654b0c90f3b618b59638170
+/content/DFU/DFU/TestSet/10.jpg,/content/DFU/DFU/TestSet111/DFU_00080.jpg,10.jpg,DFU_00080.jpg,6debc66ee3d373198a2a6305ea982eb2ffc5e09200afc6a5fcf9ec41178c254c
+/content/DFU/DFU/TestSet/PRF_071312_FIG1.jpg,/content/DFU/DFU/TestSet111/DFU_00081.jpg,PRF_071312_FIG1.jpg,DFU_00081.jpg,994240a1cefeefb22b6933d4f7d2008f750a2c779ba110842f902735853bfa59
+/content/DFU/DFU/TestSet/feat_footulcer_necro_1110_127573.jpg,/content/DFU/DFU/TestSet111/DFU_00082.jpg,feat_footulcer_necro_1110_127573.jpg,DFU_00082.jpg,822a851c5df0907d65b74b86d60dc6b4cc2cc078db2e74ad7c999797493bbc15
+/content/DFU/DFU/TestSet/B9780323072427000279_f027-008-9780323072427.jpg,/content/DFU/DFU/TestSet111/DFU_00083.jpg,B9780323072427000279_f027-008-9780323072427.jpg,DFU_00083.jpg,b423dda85f7ff325fd15d5b9be96bd5795935b01aa62717e355767035cf689d9
+/content/DFU/DFU/TestSet/images (30).jpg,/content/DFU/DFU/TestSet111/DFU_00084.jpg,images (30).jpg,DFU_00084.jpg,0215e9231bff2596579699dbd85cdeb67e40c882cc9614ff598b23680f6660e5
+/content/DFU/DFU/TestSet/6.jpg,/content/DFU/DFU/TestSet111/DFU_00085.jpg,6.jpg,DFU_00085.jpg,b806a5629fbf442bcdf3995abb581b9aa5eb21d56f4e1b6a4ba1f8793ce3d716
+/content/DFU/DFU/TestSet/diabetic-ulcer-diseases-feet-CT3FE6.jpg,/content/DFU/DFU/TestSet111/DFU_00086.jpg,diabetic-ulcer-diseases-feet-CT3FE6.jpg,DFU_00086.jpg,1237b2e6e08607323fda950a1bc8ba7cce2fb8cc40c40496d1433855cb8cf771
+/content/DFU/DFU/TestSet/foot-ulcer-pic.png,/content/DFU/DFU/TestSet111/DFU_00087.png,foot-ulcer-pic.png,DFU_00087.png,648773f0a7d3ea1e52ca597f1c94d76844155c8dd48015d8fa945d65f61f66a8
+/content/DFU/DFU/TestSet/Footpuncture-blog2.jpg,/content/DFU/DFU/TestSet111/DFU_00088.jpg,Footpuncture-blog2.jpg,DFU_00088.jpg,9a8c981b3772b44a8004cd4a93547b2ec4a406e37ea71e4a1d6beecd521dcc12
+/content/DFU/DFU/TestSet/C0365633-Diabetic_Heel_Ulcer.jpg,/content/DFU/DFU/TestSet111/DFU_00089.jpg,C0365633-Diabetic_Heel_Ulcer.jpg,DFU_00089.jpg,b30bdaea8a04a8507cecf35cca40e5028b33c57229c943abc477b41e4ea4d5e2
+/content/DFU/DFU/TestSet/foot-ulcer-pic (1).png,/content/DFU/DFU/TestSet111/DFU_00090.png,foot-ulcer-pic (1).png,DFU_00090.png,31045672afa0019593dcdad681655c992058ec02dba31ed9432156bdd90e5e75
+/content/DFU/DFU/TestSet/642x361_Foot_Corn_SLIDE_2.jpg,/content/DFU/DFU/TestSet111/DFU_00091.jpg,642x361_Foot_Corn_SLIDE_2.jpg,DFU_00091.jpg,4e0a20f0297e177d6c049287230bb5a37232b680c66badd844414feee67c3bd0
+/content/DFU/DFU/TestSet/images (23).jpg,/content/DFU/DFU/TestSet111/DFU_00092.jpg,images (23).jpg,DFU_00092.jpg,2a9de6075c561317f807453b7435972daba7ed4be1404d830af06f300b01d529
+/content/DFU/DFU/TestSet/foot_ulcer_5.jpg,/content/DFU/DFU/TestSet111/DFU_00093.jpg,foot_ulcer_5.jpg,DFU_00093.jpg,2c8e670ec7cbb18cba88c432f6812015f9e459658162a53f023e8c5e998de0fd
+/content/DFU/DFU/TestSet/images (10).jpg,/content/DFU/DFU/TestSet111/DFU_00094.jpg,images (10).jpg,DFU_00094.jpg,1de491df298a6a6f75e722759fb7351a9e69188a189089958b47c11d9b0348af
+/content/DFU/DFU/TestSet/C3.jpg,/content/DFU/DFU/TestSet111/DFU_00095.jpg,C3.jpg,DFU_00095.jpg,442346cb8f9d5ab1110811b7444ee415aea7d9dc46640149b5c878cf5a9db774
+/content/DFU/DFU/TestSet/20.jpg,/content/DFU/DFU/TestSet111/DFU_00096.jpg,20.jpg,DFU_00096.jpg,6947d97b5e48afc3906b2abcdd922c4ef283881b0d1d8bc03fbd83d0c2e16d95
+/content/DFU/DFU/TestSet/pt08cover4_0.jpg,/content/DFU/DFU/TestSet111/DFU_00097.jpg,pt08cover4_0.jpg,DFU_00097.jpg,9c210ee6b60aa33bc63cba74c3b23a3f5ed9549125beca9b817f7de345982895
+/content/DFU/DFU/TestSet/download (1).jpg,/content/DFU/DFU/TestSet111/DFU_00098.jpg,download (1).jpg,DFU_00098.jpg,9f702372fdad5b13157f0d1c4bb8134ee380defec83c314fb3bb8f171f77bbf9
+/content/DFU/DFU/TestSet/F3.large.jpg,/content/DFU/DFU/TestSet111/DFU_00099.jpg,F3.large.jpg,DFU_00099.jpg,1417fe0adc07e642f2187df79f35b7be36f6237d1477350cb2eda69aab6d37b5
+/content/DFU/DFU/TestSet/21.jpg,/content/DFU/DFU/TestSet111/DFU_00100.jpg,21.jpg,DFU_00100.jpg,4c8b272fbb5bb61e1d4a8a4b672226b3317a6a690ba78e9894c44c2cc5a0f1f0
+/content/DFU/DFU/TestSet/DiabeticPicture4.jpg,/content/DFU/DFU/TestSet111/DFU_00101.jpg,DiabeticPicture4.jpg,DFU_00101.jpg,4a9cde0203323ca353a471c097b262e04a4a9dd2b120905299cca4a71cce0a82
+/content/DFU/DFU/TestSet/pre-ulceration.jpg,/content/DFU/DFU/TestSet111/DFU_00102.jpg,pre-ulceration.jpg,DFU_00102.jpg,20f7a3bd33cdb0bc6e1beb3b5253a69eece74560e14ed3a32f9cffaba64a82d0
+/content/DFU/DFU/TestSet/16.jpg,/content/DFU/DFU/TestSet111/DFU_00103.jpg,16.jpg,DFU_00103.jpg,c8dcf284eac46034024fb50cdf1f8cd5f342f509f9b2c806f9ad1dd76dfe00e7
+/content/DFU/DFU/TestSet/diabetic_foot_ulcer.jpg,/content/DFU/DFU/TestSet111/DFU_00104.jpg,diabetic_foot_ulcer.jpg,DFU_00104.jpg,c9baaced5e6ae1b462f6429c5445239c41827c27ed61bf16d80d8c9196581815
+/content/DFU/DFU/TestSet/pt1114diabetes_1.png,/content/DFU/DFU/TestSet111/DFU_00105.png,pt1114diabetes_1.png,DFU_00105.png,94ce02364f98027f9471a91dfad07e052d24936d1d3c3880f2b8cea1f152ccb6
+/content/DFU/DFU/TestSet/8.jpg,/content/DFU/DFU/TestSet111/DFU_00106.jpg,8.jpg,DFU_00106.jpg,c014054d610f9dd4bda0210b222b9e702c2d4d4832985ef7d946afa4eb25854a
+/content/DFU/DFU/TestSet/display.jpg,/content/DFU/DFU/TestSet111/DFU_00107.jpg,display.jpg,DFU_00107.jpg,eaf9a2a3cfdb721ca94309355b73017e5b39f046070a7c43b987d32fe9f0713e
+/content/DFU/DFU/TestSet/images (14).jpg,/content/DFU/DFU/TestSet111/DFU_00108.jpg,images (14).jpg,DFU_00108.jpg,3632cc695ed975d4587d36066967f6f8e3829db7f4e2721db46e340735b1ffc4
+/content/DFU/DFU/TestSet/Foot-ulcer-600x399.png,/content/DFU/DFU/TestSet111/DFU_00109.png,Foot-ulcer-600x399.png,DFU_00109.png,66a67244a4a28b55501026938e2876c527b48391f6ec54d48f7631021b4143b6
+/content/DFU/DFU/TestSet/images (28).jpg,/content/DFU/DFU/TestSet111/DFU_00110.jpg,images (28).jpg,DFU_00110.jpg,3f47a10cd7bad01585395cae63083c6e41637324592f7d8d43729b8e6de31a63
+/content/DFU/DFU/TestSet/1882_19-Effective-Home-Remedies-For-Corns-And-Calluses.jpg,/content/DFU/DFU/TestSet111/DFU_00111.jpg,1882_19-Effective-Home-Remedies-For-Corns-And-Calluses.jpg,DFU_00111.jpg,4056b93ae70c7aff59b818ac86bd04e2b2dd65692feba3a43043848dbffa6f5a
+/content/DFU/DFU/TestSet/19.jpg,/content/DFU/DFU/TestSet111/DFU_00112.jpg,19.jpg,DFU_00112.jpg,b165857e57787e430b7543c8a2708c62e6a6d6cabfcf2043820434e35956132b
+/content/DFU/DFU/TestSet/images (31).jpg,/content/DFU/DFU/TestSet111/DFU_00113.jpg,images (31).jpg,DFU_00113.jpg,171af8d06769d330a9edca509fdf9c4a550a6856397b185a0d69abc9a29fdeb6
+/content/DFU/DFU/TestSet/diabetic-foot-ulcer-pictures.jpg,/content/DFU/DFU/TestSet111/DFU_00114.jpg,diabetic-foot-ulcer-pictures.jpg,DFU_00114.jpg,e2ebb9a43027cdc29000b0e2c30742921dba44a38fa3ddd5e43c5f02515140c1
+/content/DFU/DFU/TestSet/47.jpg,/content/DFU/DFU/TestSet111/DFU_00115.jpg,47.jpg,DFU_00115.jpg,b1ead55709a7281ba9a2e200e43d02f8b9cfc1aa212c9fd6797b0e393ca2c350
+/content/DFU/DFU/TestSet/C1.jpg,/content/DFU/DFU/TestSet111/DFU_00116.jpg,C1.jpg,DFU_00116.jpg,9b3c46603f83256cebdad655a6a0c77ac766a1661d3cadb1c0a0016035ca6d03
+/content/DFU/DFU/TestSet/images.jpg,/content/DFU/DFU/TestSet111/DFU_00117.jpg,images.jpg,DFU_00117.jpg,7c5f34cc5bcfdf163045637fc0cf37f9a32030f1274ad4371292ccd0b674a183
+/content/DFU/DFU/TestSet/Diabetic foot ulcer.jpg,/content/DFU/DFU/TestSet111/DFU_00118.jpg,Diabetic foot ulcer.jpg,DFU_00118.jpg,319d4060db0cd740c1cc36b5aaaee0d993ea676c63092da2ae118c96c8db94ed
+/content/DFU/DFU/TestSet/images (17).jpg,/content/DFU/DFU/TestSet111/DFU_00119.jpg,images (17).jpg,DFU_00119.jpg,8c6d065ae505f6dbb94f6965f7fb6c9db48f3c5d5c777d9130f46a2a0aabd07b
+/content/DFU/DFU/TestSet/240_F_214198906_xKY39M1gdfq0dhoyLlik7dSrIRdiacQO.jpg,/content/DFU/DFU/TestSet111/DFU_00120.jpg,240_F_214198906_xKY39M1gdfq0dhoyLlik7dSrIRdiacQO.jpg,DFU_00120.jpg,87ece0f04b91512c05459a6a7f3374b482334dc8c8ed53f0c3b6f5f5c3f27702
+/content/DFU/DFU/TestSet/hallux-IPJ-ulcer-post1A.jpg,/content/DFU/DFU/TestSet111/DFU_00121.jpg,hallux-IPJ-ulcer-post1A.jpg,DFU_00121.jpg,040d0420fd715330027c775da568cc5bf3236491f78a7e068e8bd4c890fb5331
+/content/DFU/DFU/TestSet/0cbt67mm0fr01.jpg,/content/DFU/DFU/TestSet111/DFU_00122.jpg,0cbt67mm0fr01.jpg,DFU_00122.jpg,525572d57aaabd1f817ea600db6adbad5b08e31e02e53d3f1545b8725766ad64
+/content/DFU/DFU/TestSet/images (4).jpg,/content/DFU/DFU/TestSet111/DFU_00123.jpg,images (4).jpg,DFU_00123.jpg,4be81354f4ae90ca412e4594d4a308ad84a09c57fad365a367cf548ba572abc8
+/content/DFU/DFU/TestSet/11.jpg,/content/DFU/DFU/TestSet111/DFU_00124.jpg,11.jpg,DFU_00124.jpg,d3ac2174bb72cd62d27931961ef91bf094044520197e3ac94e8726acf9891edd
+/content/DFU/DFU/TestSet/diabetische.jpg,/content/DFU/DFU/TestSet111/DFU_00125.jpg,diabetische.jpg,DFU_00125.jpg,6ccd2b9fdec40264a85fdc939a02ec92abb6f7ee2978f18d69789c9fb4902300
+/content/DFU/DFU/TestSet/Initial-presentation-of-the-diabetic-ulcer-at-the-left-lateral-foot.png,/content/DFU/DFU/TestSet111/DFU_00126.png,Initial-presentation-of-the-diabetic-ulcer-at-the-left-lateral-foot.png,DFU_00126.png,93749dc7a8c5bc577ac029bb9a0f45b870745421a2e31831a32b40392e6757b4
+/content/DFU/DFU/TestSet/RTEmagicC_017_FP0216_F1.jpg.jpg,/content/DFU/DFU/TestSet111/DFU_00127.jpg,RTEmagicC_017_FP0216_F1.jpg.jpg,DFU_00127.jpg,95084e792b7494be5db4206482fed1ff724c84fc0caa9b29e2e3c5e3ccc97a18
+/content/DFU/DFU/TestSet/images (27).jpg,/content/DFU/DFU/TestSet111/DFU_00128.jpg,images (27).jpg,DFU_00128.jpg,c3f79664667c93b9cdbdb78022bca9e6080dcacaf3a1b43a714814059933b4d4
+/content/DFU/DFU/TestSet/50.jpg,/content/DFU/DFU/TestSet111/DFU_00129.jpg,50.jpg,DFU_00129.jpg,0e8088c8b570f3512428e41f4adba1894e69fd6ba5c53899cb70fd265fea7210
+/content/DFU/DFU/TestSet/3809525079_71eabf91b5_z.jpg,/content/DFU/DFU/TestSet111/DFU_00130.jpg,3809525079_71eabf91b5_z.jpg,DFU_00130.jpg,c21bbf45e894f6d498585da92c476c58f9d6e600315573fc91fe0016cb3ed839
+/content/DFU/DFU/TestSet/14.jpg,/content/DFU/DFU/TestSet111/DFU_00131.jpg,14.jpg,DFU_00131.jpg,1bd413f90556f55b4fbaa229c4b863199b78688b509f35bbb22039e709984854
+/content/DFU/DFU/TestSet/lesioni-piede-diabetico_01.jpg,/content/DFU/DFU/TestSet111/DFU_00132.jpg,lesioni-piede-diabetico_01.jpg,DFU_00132.jpg,6b021c0256962eae63c191afd9e480fd67dd78cd74287fbc4042b09e8ebf1c5c
+/content/DFU/DFU/TestSet/images (22).jpg,/content/DFU/DFU/TestSet111/DFU_00133.jpg,images (22).jpg,DFU_00133.jpg,d123dc4e633b16cc8fe1c305ca7b097e4d8bc8469766617d9768b1416c1baeb6
+/content/DFU/DFU/TestSet/Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (2).png,/content/DFU/DFU/TestSet111/DFU_00134.png,Class-1-Foot-at-risk-a-and-b-Foot-with-callus-but-no-ulcer-b-a (2).png,DFU_00134.png,d9f8c54817037ba915ab8a260b0a2b07b741a99a447ae886b8ef5516ac9c0eb7
+/content/DFU/DFU/TestSet/images (25).jpg,/content/DFU/DFU/TestSet111/DFU_00135.jpg,images (25).jpg,DFU_00135.jpg,412545be75a36b54d07ce0f3eb8b4c8ffe808acb841ebe6a5568e5864ac543c3
+/content/DFU/DFU/TestSet/corn-1200x820.jpg,/content/DFU/DFU/TestSet111/DFU_00136.jpg,corn-1200x820.jpg,DFU_00136.jpg,237b6603958105c2f99c04bbd1857e00ab8369d07c0f160d78309137d6d0fe7a
+/content/DFU/DFU/TestSet/bleeding-under-callus-preulcerative.jpg,/content/DFU/DFU/TestSet111/DFU_00137.jpg,bleeding-under-callus-preulcerative.jpg,DFU_00137.jpg,a6571eacafab1df5555fb9ae6912c9a64bf18a530c6958e73e326a726b1071a1
+/content/DFU/DFU/TestSet/images (8).jpg,/content/DFU/DFU/TestSet111/DFU_00138.jpg,images (8).jpg,DFU_00138.jpg,cae295838c76a54f9255f5ec2bbda0d1c6b65b03324b7c673ce2982590bf11b5
+/content/DFU/DFU/TestSet/2.jpg,/content/DFU/DFU/TestSet111/DFU_00139.jpg,2.jpg,DFU_00139.jpg,ad91b7f7018471cdd0fbcf31590284a51860c4af4afb4af72af6615739dbeddf
+/content/DFU/DFU/TestSet/46683AFD00000578-5088439-image-a-7_1510827626291.jpg,/content/DFU/DFU/TestSet111/DFU_00140.jpg,46683AFD00000578-5088439-image-a-7_1510827626291.jpg,DFU_00140.jpg,d5380311cbd615fa13bfbd81d291c50ac90807413ea471bff4572cf951f40ddd
+/content/DFU/DFU/TestSet/7.jpg,/content/DFU/DFU/TestSet111/DFU_00141.jpg,7.jpg,DFU_00141.jpg,8a7df0a525387ccbc60130c88ac17b0ea2819bb8948311111ce5630c9647ea5c
+/content/DFU/DFU/TestSet/17.jpg,/content/DFU/DFU/TestSet111/DFU_00142.jpg,17.jpg,DFU_00142.jpg,9e3ae32ca6104e46ff93a843d0730d6ce187ac121ebbce43d05075c174e48bbc
+/content/DFU/DFU/TestSet/images (1).jpg,/content/DFU/DFU/TestSet111/DFU_00143.jpg,images (1).jpg,DFU_00143.jpg,527e5466cd2a70de43d79aa6222205526e98a7e950ebd55a4b6af07dfef55580
+/content/DFU/DFU/TestSet/calluses.jpg,/content/DFU/DFU/TestSet111/DFU_00144.jpg,calluses.jpg,DFU_00144.jpg,4056b93ae70c7aff59b818ac86bd04e2b2dd65692feba3a43043848dbffa6f5a
+/content/DFU/DFU/TestSet/C2.jpg,/content/DFU/DFU/TestSet111/DFU_00145.jpg,C2.jpg,DFU_00145.jpg,c6bfa3cac3145fd9a387b8a7e2c3e8363482c6e56f865d877f5cb22034953a5f
+/content/DFU/DFU/TestSet/images (15).jpg,/content/DFU/DFU/TestSet111/DFU_00146.jpg,images (15).jpg,DFU_00146.jpg,21b75131d2c173bc6b8e29798398e7eeaed2331066aa41eff679f7c8cde78607
+/content/DFU/DFU/TestSet/maxresdefault.jpg,/content/DFU/DFU/TestSet111/DFU_00147.jpg,maxresdefault.jpg,DFU_00147.jpg,beef05b2320224b6d4524d5ece4d8b8ca9645ab8922dbacb8e196e9ccbaa2864
+/content/DFU/DFU/TestSet/7e88c7_71fd61f6ac3d48cab475dfa44ea94017.jpg,/content/DFU/DFU/TestSet111/DFU_00148.jpg,7e88c7_71fd61f6ac3d48cab475dfa44ea94017.jpg,DFU_00148.jpg,622b422aa81629cca73a0f3efa487e112fd929b33abb37ca23eff160a37f2167
+/content/DFU/DFU/TestSet/b4b2e1341a7bf627a58f6ac32212ed93.jpg,/content/DFU/DFU/TestSet111/DFU_00149.jpg,b4b2e1341a7bf627a58f6ac32212ed93.jpg,DFU_00149.jpg,9944163342a7251d410a83b7e387ad89759d8c6010a9ab83aad009119b47afdb
+/content/DFU/DFU/TestSet/12.jpg,/content/DFU/DFU/TestSet111/DFU_00150.jpg,12.jpg,DFU_00150.jpg,f6ace81c0dd02206f318fe39867a440517577a785b4705370e9ab055e851e551
+/content/DFU/DFU/TestSet/7a5e12fa15.jpg,/content/DFU/DFU/TestSet111/DFU_00151.jpg,7a5e12fa15.jpg,DFU_00151.jpg,7cc7f06306338f9ec8198bc3f03e10b4e39e795de97d4fcfc7bf798ecddbf2f0
+/content/DFU/DFU/TestSet/image1.jpeg,/content/DFU/DFU/TestSet111/DFU_00152.jpeg,image1.jpeg,DFU_00152.jpeg,cc59e890dbe25b3ec76ff2cf252589771d22849156a64e59f7a5a71f85450d33
+/content/DFU/DFU/TestSet/2854.fig.1.png,/content/DFU/DFU/TestSet111/DFU_00153.png,2854.fig.1.png,DFU_00153.png,3c4da3a4da5a3ba2bfaedf06d47fb93a0b22897dedfbd98e4878abc362987e88
+/content/DFU/DFU/TestSet/images (26).jpg,/content/DFU/DFU/TestSet111/DFU_00154.jpg,images (26).jpg,DFU_00154.jpg,ab2246a3428474979bcf3b1997365b0f3a5f66e3e099a0ed354f91e8bd5799a0
+/content/DFU/DFU/TestSet/222748d9f97a36c08da91dc46f6f5200.jpg,/content/DFU/DFU/TestSet111/DFU_00155.jpg,222748d9f97a36c08da91dc46f6f5200.jpg,DFU_00155.jpg,423de04b9ac4e7a71c1fef19124346b967a2ed530c4949b0a42ed7b60eb47ff6
+/content/DFU/DFU/TestSet/afp19980315p1325-f4.jpg,/content/DFU/DFU/TestSet111/DFU_00156.jpg,afp19980315p1325-f4.jpg,DFU_00156.jpg,b77b06ea9f39a5ecc916c9f4e85a2fa6fa15fcd0f8fbbff5b8ad945a31ed664c
+/content/DFU/DFU/TestSet/tungiasis-3.jpg,/content/DFU/DFU/TestSet111/DFU_00157.jpg,tungiasis-3.jpg,DFU_00157.jpg,1d8dc1af2e5b175c76c4d6d3fcf158751bf5806d520f1f954abe2407cf2d107b
+/content/DFU/DFU/TestSet/bleeding-under-callus-preulcerative (1).jpg,/content/DFU/DFU/TestSet111/DFU_00158.jpg,bleeding-under-callus-preulcerative (1).jpg,DFU_00158.jpg,a6571eacafab1df5555fb9ae6912c9a64bf18a530c6958e73e326a726b1071a1
+/content/DFU/DFU/TestSet/images (7).jpg,/content/DFU/DFU/TestSet111/DFU_00159.jpg,images (7).jpg,DFU_00159.jpg,0448b6365dd7a37711148304d88ee7000defc6d80a4250ca89da93a418cc2b9d
+/content/DFU/DFU/TestSet/foot-doctor-for-corn-callus-treatment.png,/content/DFU/DFU/TestSet111/DFU_00160.png,foot-doctor-for-corn-callus-treatment.png,DFU_00160.png,a2389b441dd41f2b26d375c23e1cab84124a17c124ac1a9c74f006527157ed45
+/content/DFU/DFU/TestSet/feat_footulcer_cellul_1110_127752_127753.jpg,/content/DFU/DFU/TestSet111/DFU_00161.jpg,feat_footulcer_cellul_1110_127752_127753.jpg,DFU_00161.jpg,52846a427cb780ef49e52f010629a8a555d963e33fd5db11181e579c502ee8b6
+/content/DFU/DFU/TestSet/A-diabetic-foot-ulcer-presents-significant-morbidity-and-mortality-to-patients-Proper_Q320.jpg,/content/DFU/DFU/TestSet111/DFU_00162.jpg,A-diabetic-foot-ulcer-presents-significant-morbidity-and-mortality-to-patients-Proper_Q320.jpg,DFU_00162.jpg,8ea9291b124dbba4c49d395b095f0469a357b3ef341a2569758137809cba98b2
+/content/DFU/DFU/TestSet/Painless-ulcer-on-plantar-surface-of-her-right-big-toe.png,/content/DFU/DFU/TestSet111/DFU_00163.png,Painless-ulcer-on-plantar-surface-of-her-right-big-toe.png,DFU_00163.png,a9c2392fb6a7c291c8845c3b656928e8d9c9d357bde7d71bfe681e460a166590
