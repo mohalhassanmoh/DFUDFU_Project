@@ -1,7 +1,0 @@
-path,pred_class,p_ulcer,triage,gradcam_path,focus_score,explanation
-DFU/DFU/TestSet111/DFU_00145.jpg,Normal(Healthy skin),0.0007,Red,outputs/gradcam/DFU_00145_gradcam_p0.00.jpg,0.893,احتمال منخفض لوجود قرحة. مستوى الفرز: Red. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
-DFU/DFU/TestSet111/DFU_00016.jpg,Normal(Healthy skin),0.2606,Amber,outputs/gradcam/DFU_00016_gradcam_p0.26.jpg,0.899,احتمال منخفض لوجود قرحة. مستوى الفرز: Amber. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
-DFU/DFU/TestSet111/DFU_00088.jpg,Normal(Healthy skin),0.2786,Amber,outputs/gradcam/DFU_00088_gradcam_p0.28.jpg,0.885,احتمال منخفض لوجود قرحة. مستوى الفرز: Amber. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
-DFU/DFU/TestSet111/DFU_00144.jpg,Normal(Healthy skin),0.3061,Amber,outputs/gradcam/DFU_00144_gradcam_p0.31.jpg,0.878,احتمال منخفض لوجود قرحة. مستوى الفرز: Amber. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
-DFU/DFU/TestSet111/DFU_00111.jpg,Normal(Healthy skin),0.3061,Amber,outputs/gradcam/DFU_00111_gradcam_p0.31.jpg,0.878,احتمال منخفض لوجود قرحة. مستوى الفرز: Amber. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
-DFU/DFU/TestSet111/DFU_00120.jpg,Normal(Healthy skin),0.3446,Amber,outputs/gradcam/DFU_00120_gradcam_p0.34.jpg,0.836,احتمال منخفض لوجود قرحة. مستوى الفرز: Amber. الخريطة الحرارية تُظهر تركّزًا واضحًا فوق منطقة جلدية محددة، ما يدعم القرار.
